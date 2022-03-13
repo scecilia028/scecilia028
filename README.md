@@ -7,7 +7,7 @@
  
  <h1 align="left">Olá, me chamo Cecília Araújo 👋</h1>
 
- <a href="https://www.linkedin.com/">
+ <a href="https://www.linkedin.com/in/csa-cecilia/">
     <img align="left" width="150px" src="https://i.ibb.co/j3PwR3X/linkedin2.png" alt="linkedin" style="vertical-align:top;">
   </a> 
   <a href="https://www.flickr.com/people/scecilia028/">
