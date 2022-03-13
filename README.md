@@ -46,7 +46,7 @@
 
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
  <code><img width="40px" src="https://i.ibb.co/fndJnfY/construct.png" title = "CONSTRUCT2"/></code>
- 
+ - Conheço e já fiz alguns projetos de estudo com C e C#
  
 ## Outras conexões
 
