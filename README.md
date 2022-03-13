@@ -45,16 +45,15 @@
 ## Outras tecnologias
 
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
- <code><img width="40px" src="https://i.ibb.co/VM4zKJw/scratch-icon.png" title = "SCRATCH"/></code>
  <code><img width="40px" src="https://i.ibb.co/fndJnfY/construct.png" title = "CONSTRUCT2"/></code>
  
  
 ## Outras conexões
 
-  <a href="https://scratch.mit.edu/">
+  <a href="https://scratch.mit.edu/users/scecilia028/">
     <img align="left" width="100px" src="https://i.ibb.co/VQ6Q0Dx/scratch.png" alt="scratch" style="vertical-align:top;">
   </a> 
-   <a href="https://www.skoob.com.br/">
+   <a href="https://www.skoob.com.br/usuario/719098-ceecii">
     <img align="left" width="100px" src="https://i.ibb.co/Stv5JPS/skoob.png" alt="skoob" style="vertical-align:top;">
   </a> 
  
