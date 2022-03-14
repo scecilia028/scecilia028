@@ -57,5 +57,6 @@
     <img align="left" width="100px" src="https://i.ibb.co/Stv5JPS/skoob.png" alt="skoob" style="vertical-align:top;">
   </a> 
   
+  </br>
   ##### *Estou iniciando em 2022 o GitHub como parte da minha vida na área da programação
  
