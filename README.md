@@ -58,5 +58,7 @@
   </a> 
   
   </br>
-  ##### *Estou iniciando em 2022 o GitHub como parte da minha vida na área da programação
+  </br>
+  </br>
+  *Estou iniciando em 2022 o GitHub como parte da minha vida na área da programação
  
